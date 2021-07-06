@@ -33,4 +33,3 @@ class Engine:
         context.present(console)
 
         console.clear()
-
